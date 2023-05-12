@@ -1,1 +1,1 @@
-small project to show the creating and use of custom hooks
+small and simple project to show the creation and use of custom hooks
